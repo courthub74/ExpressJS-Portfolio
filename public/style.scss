@@ -244,6 +244,7 @@ $thirdblue: rgb(85, 85, 255);
                             // background-color: red;
                             .list {
                                     background-color: $mainblue;
+                                    box-shadow: 5px 5px 8px black;
                                     // color: #4F9F89;
                                     color: white;
                                     font-family: 'Julius Sans One', sans-serif;
@@ -297,6 +298,7 @@ $thirdblue: rgb(85, 85, 255);
                                 .iconblock {
                                     // set the size and radius
                                     background-color: $mainblue;
+                                    box-shadow: 5px 5px 5px black;
                                     width: 7vw;
                                     height: 7vw;
                                     border-radius: 50%;
@@ -500,6 +502,7 @@ $thirdblue: rgb(85, 85, 255);
                                 .iconblock {
                                     // set the size and radius
                                     background-color: $mainblue;
+                                    box-shadow: 5px 5px 5px black;
                                     width: 7vw;
                                     height: 7vw;
                                     border-radius: 50%;
@@ -1384,6 +1387,7 @@ $thirdblue: rgb(85, 85, 255);
                         width: 20vw;
                         height: 20vw;
                         display: flex;
+                        box-shadow: 5px 5px 8px black;
                         a {
                             display: flex;
                             flex-direction: column;

@@ -165,6 +165,7 @@
 }
 * body .house .skills .pageskills .skillslist .skillscontent .list {
   background-color: #080E2F;
+  box-shadow: 5px 5px 8px black;
   color: white;
   font-family: "Julius Sans One", sans-serif;
   font-size: 1vw;
@@ -206,6 +207,7 @@
 }
 * body .house .skills .pageskills .skillicons .front .icons .iconblock {
   background-color: #080E2F;
+  box-shadow: 5px 5px 5px black;
   width: 7vw;
   height: 7vw;
   border-radius: 50%;
@@ -389,6 +391,7 @@
 }
 * body .house .skills .pageskills .skillicons .back .icons .iconblock {
   background-color: #080E2F;
+  box-shadow: 5px 5px 5px black;
   width: 7vw;
   height: 7vw;
   border-radius: 50%;
@@ -1168,6 +1171,7 @@
   width: 20vw;
   height: 20vw;
   display: flex;
+  box-shadow: 5px 5px 8px black;
 }
 * body .house .blog .blogcontainer .blogcircles a {
   display: flex;
