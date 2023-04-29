@@ -17,6 +17,7 @@ app.use(express.static('public')); // this is to serve our public folder as a st
 
 // ROUTES
 
+// Main Page
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/public/index.html');
 });

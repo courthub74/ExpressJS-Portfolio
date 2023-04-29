@@ -1,0 +1,21 @@
+// FONTS
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Julius+Sans+One&family=Roboto:wght@900&display=swap');
+
+// COLORS
+$mainblue: #080E2F;
+$skillswhite: #FFFFFF;
+
+// MAIN BODY
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: $mainblue;
+    color: $skillswhite;
+    display: flex;
+    flex-direction: column;
+    // justify-content: center;
+    align-items: left;
+    .container {
+        display: flex;
+    }
+}
